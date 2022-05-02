@@ -1,0 +1,26 @@
+{
+    "/user/*":{
+        "target":"https://hubz.nyotek.com",
+        "secure":true,
+        "changeOrigin":true,
+        "loglevel":"debug"
+    },
+    "/login":{
+        "target":"https://hubz.nyotek.com",
+        "secure":true,
+        "changeOrigin":true,
+        "loglevel":"debug"
+    },
+    "/register":{
+        "target":"https://hubz.nyotek.com",
+        "secure":true,
+        "changeOrigin":true,
+        "loglevel":"debug"
+    },
+    "/refresh_token":{
+        "target":"https://hubz.nyotek.com",
+        "secure":true,
+        "changeOrigin":true,
+        "loglevel":"debug"
+    }
+}
